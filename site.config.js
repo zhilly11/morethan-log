@@ -4,7 +4,7 @@ const CONFIG = {
     name: "zhilly",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "iOS developer",
-    bio: "I develop everything using node.",
+    bio: "고민에 진심인 편.",
     email: "zhzh1x4@gmail.com",
     linkedin: "",
     github: "zhilly11",
@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `zhilly-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `Daily-Capture`,
+      href: "https://github.com/zhilly11/Daily-Capture",
     },
   ],
   // blog setting (required)
