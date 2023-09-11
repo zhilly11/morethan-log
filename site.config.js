@@ -48,7 +48,7 @@ const CONFIG = {
     },
   },
   utterances: {
-    enable: true,
+    enable: false,
     config: {
       repo: "zhilly11/morethan-log",
       "issue-term": "og:title",
