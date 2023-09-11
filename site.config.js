@@ -44,7 +44,7 @@ const CONFIG = {
   googleSearchConsole: {
     enable: true,
     config: {
-      siteVerification: process.env.GOOGLE_SITE_VERIFICATION || "",
+      siteVerification: "6E9DxwWlY3Nfs2lIGsS7GVgNTpn9faT6_uxX9Gp-40Y",
     },
   },
   utterances: {
